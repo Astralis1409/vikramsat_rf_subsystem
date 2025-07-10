@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CC1125RHBR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CC1125RHBR" (!) = "", "QFN50P500X500X100-33N-D", "Quad Flat No-Lead", "595-CC1125RHBR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CC1125RHBR?qs=uuvYgmlZVOsNmcFvwGcWqA%3D%3D", "Ultra-High performance Sub-1 GHz Transceiver for Narrowband Systems", "http://www.ti.com/lit/gpn/cc1125", "1 mm"
+END_PART
+
+END.

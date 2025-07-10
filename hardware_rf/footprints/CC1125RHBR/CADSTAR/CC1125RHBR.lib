@@ -1,0 +1,16 @@
+.CC1125RHBR :1 ;Ultra-High performance Sub-1 GHz Transceiver for Narrowband Systems
+QFN50P500X500X100-33N-D
+*STM IC
+*NGS
+*PLB 1="VDD_GUARD" 2="RESET_N" 3="GPIO3" 4="GPIO2" 5="DVDD_1" 6="DCPL" 7="SI" 8="SCLK" 9="SO(GPIO1)" 10="GPIO0" 11="CSN" 12="DVDD_2" 13="AVDD_IF" 14="RBIAS" 15="AVDD_RF" 16="N.C." 17="PA" 18="TRX_SW" 19="LNA_P" 20="LNA_N" 21="DCPL_VCO" 22="AVDD_SYNTH1" 23="LPF0" 24="LPF1" 25="AVDD_PFD_CHP" 26="DCPL_PFD_CHP" 27="AVDD_SYNTH2" 28="AVDD_XOSC" 29="DCPL_XOSC" 30="XOSC_Q1" 31="XOSC_Q2" 32="EXT_XOSC" 33="GND"
+*MXP 33
+*DFN CC1125RHBR
+~!Mouser Part Number (595-CC1125RHBR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CC1125RHBR?qs=uuvYgmlZVOsNmcFvwGcWqA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CC1125RHBR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/cc1125)
+~!Height (1mm)
+~!3D_Model (CC1125RHBR)
+CC1125RHBR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

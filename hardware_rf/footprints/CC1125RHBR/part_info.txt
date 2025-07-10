@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CC1125RHBR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=33
+Version=1.1
+Released=2019-06-24 10:35:20
+Downloaded=2025-07-10 06:17:18
+3D=Y

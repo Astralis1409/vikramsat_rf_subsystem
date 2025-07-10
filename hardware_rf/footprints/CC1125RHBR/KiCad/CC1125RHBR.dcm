@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CC1125RHBR
+D Ultra-High performance Sub-1 GHz Transceiver for Narrowband Systems
+K
+F http://www.ti.com/lit/gpn/cc1125
+$ENDCMP
+#
+#End Doc Library
