@@ -19,4 +19,6 @@ yeah, i am following the cc1125 design guide right now, and i am gonna probably 
 okay yup, i worked a bit today, i think the schematic for cc1125 is complete, here is the work i did:  
 ![](/images/10/sch.png)  
 
-### Time Spent Today: 45 mins
+worked a bit more, will update the progress at home
+
+### Time Spent Today: 1h 15 mins
