@@ -12,4 +12,4 @@ it is a great IC tbh and i would adapt the openlst rf design i think, because i 
 and another goal i have, to make this board as good-looking as possible.
 
 
-and umm yeah, i thought let's also add the RP2040, arguably the greatest MCU ever made for it's cost.
+and umm yeah, i thought let's also add the RP2040, arguably the greatest MCU ever made for it's cost. i think i might even just use the RP2350A, but i am more familiar with RP2040 so idk what am i gonna choose, i am going with rp2350A for now.
