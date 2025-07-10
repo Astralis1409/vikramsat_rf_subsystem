@@ -10,3 +10,6 @@ umm okay, we are trying to make a subesat and i am incharge of making the RF boa
 it is a great IC tbh and i would adapt the openlst rf design i think, because i like openlst too!
 
 and another goal i have, to make this board as good-looking as possible.
+
+
+and umm yeah, i thought let's also add the RP2040, arguably the greatest MCU ever made for it's cost.
