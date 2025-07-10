@@ -1,9 +1,0 @@
-Manufacturer=RASPBERRY-PI
-PartNumber=SC1509
-PartCategory=Integrated Circuit
-PackageCategory=Quad Flat No-Lead
-PinCount=61
-Version=1.2
-Released=2025-05-01 12:47:50
-Downloaded=2025-07-10 06:26:49
-3D=Y
