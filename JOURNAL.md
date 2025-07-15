@@ -22,3 +22,8 @@ okay yup, i worked a bit today, i think the schematic for cc1125 is complete, he
 worked a bit more, will update the progress at home
 
 ### Time Spent Today: 1h 15 mins
+
+
+# July 15 2025
+
+Okay, i found a PA for the design, but the problem is that it is not available on LCSC, it is the rffm6406, the main PA and LNA for the design, the actual frontend :/ idk what am i gonna do man 
