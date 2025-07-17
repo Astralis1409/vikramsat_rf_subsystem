@@ -32,4 +32,6 @@ Okay, i found a PA for the design, but the problem is that it is not available o
 
 I found a balun, [Balf-SPI2-02D3](https://www.st.com/resource/en/datasheet/balf-spi2-02d3.pdf), and along with that i found an IC, the [ST S2-LP](https://www.st.com/resource/en/datasheet/s2-lp.pdf). not sure what i am gonna use, but i am thinking i might just change the cc1125 to the new ST transceiver as it has faster data rate
 
+nvm, i am just gonna use the cc1125 ic, it is good and i have already started the work
+
 ### Time Spent today: 15 mins
