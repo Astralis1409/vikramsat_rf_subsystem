@@ -1,3 +1,10 @@
+---
+title: "VikramSAT RF Board"
+author: "Keyaan"
+description: "The Radio Frequency Communication Board for VikramSAT at 433MHz"
+created_at: "2025-07-02"
+---
+
 # July 2  
 I created this! 
 ----
