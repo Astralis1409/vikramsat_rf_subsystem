@@ -42,3 +42,11 @@ I found a balun, [Balf-SPI2-02D3](https://www.st.com/resource/en/datasheet/balf-
 nvm, i am just gonna use the cc1125 ic, it is good and i have already started the work
 
 ### Time Spent today: 15 mins
+----
+# July 21 2025
+
+Today, i set out to make footprints for debug on the mian board, and i also have to make symbols:
+
+![new footprint](images/21/newfoot.png)
+![new footprint](images/21/sym.png)
+### Time Spent Today: 15 mins
