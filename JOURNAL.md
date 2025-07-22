@@ -50,3 +50,12 @@ Today, i set out to make footprints for debug on the mian board, and i also have
 ![new footprint](images/21/newfoot.png)
 ![new footprint](images/21/sym.png)
 ### Time Spent Today: 15 mins
+
+# July 22 2025
+
+I started the work today again in school!!!
+Today, i routed the Balun and now i also found an RF Switch, the [Pe4259](https://lcsc.com/product-detail/RF-Switches_pSemi-PE4259-63_C470892.html)
+
+![PE-4259](/images/22/balunandswitch.png)
+I also added debug pads for the board
+![debug](/images/22/debug.png)
