@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BALFSPI202D3"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BALFSPI202D3")
+        (spec "default")
+    )
+)

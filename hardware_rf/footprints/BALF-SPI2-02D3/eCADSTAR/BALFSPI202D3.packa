@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BALF-SPI2-02D3"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-09-03-10:35:57)
+    (mountForm default
+        (footprintRef "BALFSPI202D3")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=BALF-SPI2-02D3
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=6
+Version=2.4
+Released=2022-09-03 10:35:57
+Downloaded=2025-07-22 06:22:09
+3D=Y

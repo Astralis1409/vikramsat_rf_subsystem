@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BALF-SPI2-02D3
+#/1368725/1686289/2.50/6/2/Integrated Circuit
+DEF BALF-SPI2-02D3 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "BALF-SPI2-02D3" 950 200 50 H V L CNN
+F2 "BALFSPI202D3" 950 100 50 H I L CNN
+F3 "https://www.st.com/resource/en/datasheet/balf-spi2-02d3.pdf" 950 0 50 H I L CNN
+F4 "50  nominal input / conjugate match balun to S2-LP, 433 - 470 MHz with integrated harmonic filter" 950 -100 50 H I L CNN "Description"
+F5 "0.68" 950 -200 50 H I L CNN "Height"
+F6 "511-BALF-SPI2-02D3" 950 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BALF-SPI2-02D3?qs=MLItCLRbWsy6hxyo9x0oHA%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "STMicroelectronics" 950 -500 50 H I L CNN "Manufacturer_Name"
+F9 "BALF-SPI2-02D3" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X RXP 1 0 0 200 R 50 50 0 0 P
+X RXN 2 0 -100 200 R 50 50 0 0 P
+X TX 3 0 -200 200 R 50 50 0 0 P
+X GND_1 4 1100 0 200 L 50 50 0 0 P
+X ANT 5 1100 -100 200 L 50 50 0 0 P
+X GND_2 6 1100 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BALF-SPI2-02D3
+D 50  nominal input / conjugate match balun to S2-LP, 433 - 470 MHz with integrated harmonic filter
+K
+F https://www.st.com/resource/en/datasheet/balf-spi2-02d3.pdf
+$ENDCMP
+#
+#End Doc Library

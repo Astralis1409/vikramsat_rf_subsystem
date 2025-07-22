@@ -1,0 +1,16 @@
+.BALF-SPI2-02D3 :1 ;50  nominal input / conjugate match balun to S2-LP, 433 - 470 MHz with integrated harmonic filter
+BALFSPI202D3
+*STM IC
+*NGS
+*PLB 1="RXP" 2="RXN" 3="TX" 4="GND_1" 5="ANT" 6="GND_2"
+*MXP 6
+*DFN BALF-SPI2-02D3
+~!Mouser Part Number (511-BALF-SPI2-02D3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BALF-SPI2-02D3?qs=MLItCLRbWsy6hxyo9x0oHA%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (BALF-SPI2-02D3)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/balf-spi2-02d3.pdf)
+~!Height (0.68mm)
+~!3D_Model (BALF-SPI2-02D3)
+BALF-SPI2-02D3
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

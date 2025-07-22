@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BALF_SPI2_02D3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "BALF-SPI2-02D3" (!) = "", "BALFSPI202D3", "Other", "511-BALF-SPI2-02D3", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BALF-SPI2-02D3?qs=MLItCLRbWsy6hxyo9x0oHA%3D%3D", "50  nominal input / conjugate match balun to S2-LP, 433 - 470 MHz with integrated harmonic filter", "https://www.st.com/resource/en/datasheet/balf-spi2-02d3.pdf", "0.68 mm"
+END_PART
+
+END.
