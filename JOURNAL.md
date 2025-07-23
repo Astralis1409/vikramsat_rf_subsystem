@@ -59,3 +59,6 @@ Today, i routed the Balun and now i also found an RF Switch, the [Pe4259](https:
 ![PE-4259](/images/22/balunandswitch.png)
 I also added debug pads for the board
 ![debug](/images/22/debug.png)
+
+# July 23 2025
+Today, i plan to make the rf Power Amp and LNA side of the board, i am not so able to work in school too much and the rf Frontend IC in a single package is not available on lcsc so i need to find any other ic
