@@ -62,3 +62,7 @@ I also added debug pads for the board
 
 # July 23 2025
 Today, i plan to make the rf Power Amp and LNA side of the board, i am not so able to work in school too much and the rf Frontend IC in a single package is not available on lcsc so i need to find any other ic
+
+I found an IC, this PA is [GSQ5111](https://lcsc.com/datasheet/lcsc_datasheet_2506131629_GPowerTek-GSQ5111_C41410391.pdf)
+
+and will work on it today
