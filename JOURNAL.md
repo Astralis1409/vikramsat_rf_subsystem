@@ -66,3 +66,5 @@ Today, i plan to make the rf Power Amp and LNA side of the board, i am not so ab
 I found an IC, this PA is [GSQ5111](https://lcsc.com/datasheet/lcsc_datasheet_2506131629_GPowerTek-GSQ5111_C41410391.pdf)
 
 and will work on it today
+
+gotta start working now on the schematic, i will need to make my own footprint and symbols because i cant find them for these ICs.
