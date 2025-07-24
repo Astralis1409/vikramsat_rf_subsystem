@@ -1265,7 +1265,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 13.208 -11.176 0)
+			(at 6.858 -12.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1273,7 +1273,7 @@
 			)
 		)
 		(property "Value" "GSQ5111"
-			(at 16.764 -13.208 0)
+			(at 10.414 -14.478 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1309,8 +1309,8 @@
 		)
 		(symbol "GSQ5111_0_1"
 			(rectangle
-				(start -5.08 12.7)
-				(end 17.78 -10.16)
+				(start -11.43 11.43)
+				(end 11.43 -11.43)
 				(stroke
 					(width 0)
 					(type default)
@@ -1322,7 +1322,7 @@
 		)
 		(symbol "GSQ5111_1_1"
 			(pin passive line
-				(at -7.62 5.08 0)
+				(at -13.97 3.81 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1340,7 +1340,7 @@
 				)
 			)
 			(pin passive line
-				(at -7.62 2.54 0)
+				(at -13.97 1.27 0)
 				(length 2.54)
 				(name "RF_IN"
 					(effects
@@ -1358,7 +1358,7 @@
 				)
 			)
 			(pin passive line
-				(at -7.62 0 0)
+				(at -13.97 -1.27 0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1376,7 +1376,7 @@
 				)
 			)
 			(pin passive line
-				(at -7.62 -2.54 0)
+				(at -13.97 -3.81 0)
 				(length 2.54)
 				(name "VCC1"
 					(effects
@@ -1394,7 +1394,25 @@
 				)
 			)
 			(pin passive line
-				(at 2.54 15.24 270)
+				(at -6.35 13.97 270)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -3.81 13.97 270)
 				(length 2.54)
 				(name "VCC2"
 					(effects
@@ -1412,7 +1430,7 @@
 				)
 			)
 			(pin passive line
-				(at 2.54 -12.7 90)
+				(at -3.81 -13.97 90)
 				(length 2.54)
 				(name "VAPC1"
 					(effects
@@ -1430,7 +1448,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 15.24 270)
+				(at -1.27 13.97 270)
 				(length 2.54)
 				(name "VCC2"
 					(effects
@@ -1448,7 +1466,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -12.7 90)
+				(at -1.27 -13.97 90)
 				(length 2.54)
 				(name "VAPC2"
 					(effects
@@ -1466,7 +1484,7 @@
 				)
 			)
 			(pin passive line
-				(at 7.62 15.24 270)
+				(at 1.27 13.97 270)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1484,7 +1502,7 @@
 				)
 			)
 			(pin passive line
-				(at 7.62 -12.7 90)
+				(at 1.27 -13.97 90)
 				(length 2.54)
 				(name "2f0"
 					(effects
@@ -1502,7 +1520,7 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 15.24 270)
+				(at 3.81 13.97 270)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -1520,7 +1538,7 @@
 				)
 			)
 			(pin passive line
-				(at 10.16 -12.7 90)
+				(at 3.81 -13.97 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1538,7 +1556,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 5.08 180)
+				(at 13.97 3.81 180)
 				(length 2.54)
 				(name "RF_OUT"
 					(effects
@@ -1556,7 +1574,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 2.54 180)
+				(at 13.97 1.27 180)
 				(length 2.54)
 				(name "RF_OUT"
 					(effects
@@ -1574,7 +1592,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 0 180)
+				(at 13.97 -1.27 180)
 				(length 2.54)
 				(name "RF_OUT"
 					(effects
@@ -1592,7 +1610,7 @@
 				)
 			)
 			(pin passive line
-				(at 20.32 -2.54 180)
+				(at 13.97 -3.81 180)
 				(length 2.54)
 				(name "RF_OUT"
 					(effects

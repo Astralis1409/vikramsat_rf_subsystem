@@ -74,4 +74,7 @@ gotta start working now on the schematic, i will need to make my own footprint a
 Could not work yesterday cuz i was ill, gotta definitely start working now
 
 okay, completed the symbol for the PA, here it is:
-![alt text](image.png)
+![alt text](/images/24/sym.png)
+
+okay, i made a bit of footprint(it is really hard), here it is:
+![alt text](/images/24/fut.png)
