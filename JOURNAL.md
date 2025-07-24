@@ -68,3 +68,7 @@ I found an IC, this PA is [GSQ5111](https://lcsc.com/datasheet/lcsc_datasheet_25
 and will work on it today
 
 gotta start working now on the schematic, i will need to make my own footprint and symbols because i cant find them for these ICs.
+### Time Spent Today: 30 mins
+
+# July 24 2025
+Could not work yesterday cuz i was ill, gotta definitely start working now
