@@ -72,3 +72,6 @@ gotta start working now on the schematic, i will need to make my own footprint a
 
 # July 24 2025
 Could not work yesterday cuz i was ill, gotta definitely start working now
+
+okay, completed the symbol for the PA, here it is:
+![alt text](image.png)
