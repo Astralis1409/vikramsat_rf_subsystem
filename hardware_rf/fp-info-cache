@@ -1,4 +1,4 @@
-25604588950795924
+25629101338204349
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83566,6 +83566,13 @@ HVSSOP SO
 20
 11
 Package_SO
+INA226_MSOP-10
+
+
+0
+10
+10
+Package_SO
 Infineon_PG-DSO-8-24_4x5mm
 Infineon  PG-DSO, 8 Pin (https://www.infineon.com/dgdl/Infineon-BSP752R-DS-v01_02-EN.pdf?fileId=db3a304316f112290116f233cbd271e9#page=17), generated with kicad-footprint-generator ipc_gullwing_generator.py
 Infineon PG-DSO SO
@@ -85756,6 +85763,20 @@ DGK VSSOP SO
 0
 8
 8
+Package_SO
+Untitled
+
+
+0
+0
+0
+Package_SO
+Untitled_1
+
+
+0
+10
+10
 Package_SO
 VSO-40_7.6x15.4mm_P0.762mm
 VSO40: plastic very small outline package; 40 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot158-1_po.pdf)
@@ -102655,6 +102676,13 @@ Debug Pad
 2
 2
 mainfoot
+GSQ5111
+
+
+0
+17
+17
+mainfoot
 PE4259
 6lead-sc-70
 Integrated Circuit
@@ -102675,3 +102703,73 @@ RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm
 0
 86
 61
+user_imported_devices
+ADCS7476_SOT95P280X145-6N
+DBV (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
+user_imported_devices
+ADE-11X+_SOTFL254P691X284-6N
+ADE-11X+
+Integrated Circuit
+0
+6
+6
+user_imported_devices
+ESDS314BVR_SOT95P280X145-5N
+DBV0005A_a
+Diode
+0
+5
+5
+user_imported_devices
+GALI5
+DF782 (SOT-89 package)
+Integrated Circuit
+0
+4
+4
+user_imported_devices
+PSA45043
+PSA4-5043+-2
+Integrated Circuit
+0
+4
+4
+user_imported_devices
+RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm
+
+
+0
+86
+61
+user_imported_devices
+RP2350B_QFN-80_EP_10.573x10.573_Pitch0.4mm
+
+
+0
+106
+81
+user_imported_devices
+SI5351_SOP50P490X110-10N
+10-MSOP Package
+Integrated Circuit
+0
+10
+10
+user_imported_devices
+USBPCB
+
+
+0
+4
+4
+user_imported_devices
+Untitled
+
+
+0
+4
+4
