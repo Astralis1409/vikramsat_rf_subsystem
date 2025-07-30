@@ -82,7 +82,13 @@ okay, i made a bit of footprint(it is really hard), here it is:
 # July 30 2025
 1 Day left until highway ends, i gotta finish my work on the schematic, and start with the layout ASAP. i cannot loose more time.
 I did some work in schoool, here it is:
-![work in school](/images/30/image.png)
+![work in school](/images/30/img.png)
 
 Now i gotta start with completing it finally
-### Time Spent Today: 30 mins
+
+okay, i think my schematic is finally complete, i gotta start with the footprint assignment and then i'll sleep. here are a few images:
+![connector](/images/30/conn.png)
+![power amp](/images/30/pa.png)
+![sat bus](/images/30/satbus.png)
+![rf](/images/30/img.png)
+### Time Spent Today: 2 hours
