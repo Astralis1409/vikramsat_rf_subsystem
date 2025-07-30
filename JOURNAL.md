@@ -85,3 +85,4 @@ I did some work in schoool, here it is:
 ![work in school](/images/30/image.png)
 
 Now i gotta start with completing it finally
+### Time Spent Today: 30 mins
