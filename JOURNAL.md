@@ -78,3 +78,10 @@ okay, completed the symbol for the PA, here it is:
 
 okay, i made a bit of footprint(it is really hard), here it is:
 ![alt text](/images/24/fut.png)
+
+# July 30 2025
+1 Day left until highway ends, i gotta finish my work on the schematic, and start with the layout ASAP. i cannot loose more time.
+I did some work in schoool, here it is:
+![work in school](/images/30/image.png)
+
+Now i gotta start with completing it finally
