@@ -3359,6 +3359,113 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Mechanical:MountingHole_Pad"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom no)
+			(on_board yes)
+			(property "Reference" "H"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "MountingHole_Pad"
+				(at 0 4.445 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Mounting Hole with connection"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mounting hole"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "MountingHole*Pad*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_Pad_0_1"
+				(circle
+					(center 0 1.27)
+					(radius 1.27)
+					(stroke
+						(width 1.27)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "MountingHole_Pad_1_1"
+				(pin input line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Memory_Flash:W25Q128JVS"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -9880,6 +9987,28 @@
 	)
 	(global_label "GND"
 		(shape input)
+		(at 71.12 204.47 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "00af4b77-30f3-4a93-b503-a89d13f3e19e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 71.12 211.3257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
 		(at 228.6 163.83 270)
 		(fields_autoplaced yes)
 		(effects
@@ -9913,28 +10042,6 @@
 		(uuid "06610fb3-02ec-4a0a-a355-f3e5f42bab3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 267.75 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MOSI"
-		(shape input)
-		(at 33.02 210.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "06d70f54-c5e8-422e-a0d1-b8841428c735")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.6014 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,6 +10196,28 @@
 		(uuid "15db43b7-40b2-446a-9e4f-8211fabe537c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 309.8582 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 81.28 210.82 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "160dd372-de83-4e6e-8d27-fcb3c111655f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 81.28 217.6757 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10340,6 +10469,28 @@
 			)
 		)
 	)
+	(global_label "SPI0_MISO"
+		(shape input)
+		(at 33.02 207.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "23fac7ee-7ddd-4f83-9e23-501a515206cf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.8628 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SD3"
 		(shape input)
 		(at 189.23 101.6 180)
@@ -10380,6 +10531,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI0_SCLK"
+		(shape input)
+		(at 33.02 214.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2d105f1e-b8f2-4b9c-a75f-254574da9c7e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.0442 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10507,28 +10680,6 @@
 		(uuid "36c2e679-a0ef-402c-8e1f-b90ccfb0ed3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 91.7038 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SCLK"
-		(shape input)
-		(at 33.02 214.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3710faf3-1774-4842-b3e8-4ebc2fca43ba")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.7828 214.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11000,6 +11151,28 @@
 			)
 		)
 	)
+	(global_label "SPI0_MOSI"
+		(shape input)
+		(at 33.02 210.82 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5480f9ba-24e4-4818-a013-de8c6290402b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.8628 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 246.38 254 0)
@@ -11308,6 +11481,28 @@
 			)
 		)
 	)
+	(global_label "SPI0_DEV1"
+		(shape input)
+		(at 33.02 218.44 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6d9a8f88-ee8c-4e67-8121-85f40ee5925e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.9837 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "XIN"
 		(shape input)
 		(at 196.85 113.03 180)
@@ -11418,7 +11613,7 @@
 			)
 		)
 	)
-	(global_label "RSTN"
+	(global_label "CC_RSTN"
 		(shape input)
 		(at 33.02 191.77 0)
 		(fields_autoplaced yes)
@@ -11430,7 +11625,7 @@
 		)
 		(uuid "77e2d118-de2a-44d7-9b35-4c2e4c477d3b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.7828 191.77 0)
+			(at 44.2904 191.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12166,28 +12361,6 @@
 			)
 		)
 	)
-	(global_label "CSN"
-		(shape input)
-		(at 33.02 218.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a85bf5fa-7336-46fc-834a-8d7eeb192dc2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.8152 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SPI0_MISO"
 		(shape input)
 		(at 259.08 132.08 0)
@@ -12575,28 +12748,6 @@
 		(uuid "c26e6aa5-9a15-4c39-a066-542fec2a58d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 154.94 45.6982 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MISO"
-		(shape input)
-		(at 33.02 207.01 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c2732f20-dc5a-46e7-9fe7-f3aab496eee7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 40.6014 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13354,6 +13505,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 63.5 198.12 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f562d9d3-524d-4e22-a06b-dcb8d05debe4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 63.5 204.9757 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SPI0_MISO"
 		(shape input)
 		(at 48.26 149.86 270)
@@ -13460,6 +13633,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 58.42 191.77 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ff7c0444-ffcf-42df-a115-44069d86dd3a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 58.42 198.6257 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -13627,7 +13822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 346.71 53.34 0)
 			(effects
 				(font
@@ -14404,7 +14599,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 92.71 233.6799 0)
 			(effects
 				(font
@@ -14413,7 +14608,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 88.392 232.41 90)
 			(effects
 				(font
@@ -15431,7 +15626,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-143_Horizontal"
 			(at 328.93 227.33 0)
 			(effects
 				(font
@@ -15959,6 +16154,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 81.28 208.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f972204-c62b-4a1f-9472-8c96faa22cca")
+		(property "Reference" "H4"
+			(at 83.82 205.7399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 83.82 208.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via"
+			(at 81.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 81.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 81.28 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ac14a826-74b2-4867-8398-8fffdd88398b")
+		)
+		(instances
+			(project "hardware_rf"
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:SK5129")
 		(at 231.14 257.81 0)
 		(unit 1)
@@ -16369,6 +16631,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 71.12 201.93 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d2eb8dc-e341-4aca-8487-ba7f7bcad287")
+		(property "Reference" "H3"
+			(at 73.66 199.3899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 73.66 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via"
+			(at 71.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 71.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 71.12 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2884ab94-f466-46e4-a8d1-5ee869cba354")
+		)
+		(instances
+			(project "hardware_rf"
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 43.18 43.18 270)
 		(mirror x)
@@ -16499,6 +16828,73 @@
 			(project "hardware_rf"
 				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 63.5 195.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7fa752b6-43de-4214-9c79-863efc820bd4")
+		(property "Reference" "H2"
+			(at 66.04 193.0399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 66.04 195.5799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via"
+			(at 63.5 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 63.5 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 63.5 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3572e034-d04f-409d-9732-dc6c83fdadcf")
+		)
+		(instances
+			(project "hardware_rf"
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -16982,7 +17378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 177.8 61.468 90)
 			(effects
 				(font
@@ -17119,7 +17515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T"
 			(at 168.91 77.47 0)
 			(effects
 				(font
@@ -17187,7 +17583,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_0402_1005Metric"
 			(at 379.73 53.34 0)
 			(effects
 				(font
@@ -17408,7 +17804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 276.86 67.818 90)
 			(effects
 				(font
@@ -17477,7 +17873,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.022 78.74 90)
 			(effects
 				(font
@@ -18312,7 +18708,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS810"
 			(at 115.57 152.4 0)
 			(effects
 				(font
@@ -18373,7 +18769,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 83.82 246.3799 0)
 			(effects
 				(font
@@ -18382,7 +18778,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 79.502 245.11 90)
 			(effects
 				(font
@@ -18764,7 +19160,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 93.98 246.3799 0)
 			(effects
 				(font
@@ -18773,7 +19169,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 89.662 245.11 90)
 			(effects
 				(font
@@ -18955,6 +19351,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 58.42 189.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4549d8e-725f-44ea-ad2b-5dbea18e4a99")
+		(property "Reference" "H1"
+			(at 60.96 186.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 60.96 189.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3mm_Pad_Via"
+			(at 58.42 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 58.42 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b19f0f1c-88a5-495a-b26d-13f160d56245")
+		)
+		(instances
+			(project ""
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 74.93 156.21 90)
 		(mirror x)
@@ -19049,7 +19512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 61.722 162.56 90)
 			(effects
 				(font
@@ -19116,7 +19579,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 276.86 74.168 90)
 			(effects
 				(font
@@ -19184,7 +19647,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 285.75 146.558 90)
 			(effects
 				(font
@@ -19245,7 +19708,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1k"
 			(at 123.19 163.8299 0)
 			(effects
 				(font
@@ -19254,7 +19717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 118.872 162.56 90)
 			(effects
 				(font
@@ -19391,7 +19854,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 193.04 118.618 90)
 			(effects
 				(font
@@ -19461,7 +19924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 96.012 128.27 90)
 			(effects
 				(font
