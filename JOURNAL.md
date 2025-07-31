@@ -92,3 +92,6 @@ okay, i think my schematic is finally complete, i gotta start with the footprint
 ![sat bus](/images/30/satbus.png)
 ![rf](/images/30/img.png)
 ### Time Spent Today: 2 hours
+
+# July 31 2025
+Final day,I feel kind of sad today, i am in school right now, gotta complete the footprint assignment and start layout
