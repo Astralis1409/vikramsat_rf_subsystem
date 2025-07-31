@@ -102,7 +102,7 @@ did this much:
 ![](/images/31/r1.png)
 
 Okay i am home, i'll be working noww
-I was also told to add a UART pin on the sat bus, which i added. 
-
+I was also told to add a UART pin on the sat bus, which i added.  
+I AM REMOVING SWD IT IS VERY VERY ANNOYING AND IS INTERFERING IN LAYOUT
 
 ### Time Spent Today: 1 hour 30 mins
