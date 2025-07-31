@@ -101,5 +101,6 @@ Started with the proper routing too, will update later
 did this much:
 ![](/images/31/r1.png)
 
+Okay i am home, i'll be working noww
 
 ### Time Spent Today: 1 hour 30 mins
