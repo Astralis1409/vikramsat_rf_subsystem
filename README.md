@@ -3,15 +3,15 @@ VikramSAT RF Board is the main communications board for the 'vikramsat', which i
 
 The RF transmitter on this board has an output Power of 4 Watts and it is not recommend to use this without a ham radio license. although you can receive data just fine.
 
-It uses the CC1125 RF Transceiver from Texas Instruments as it's Transceiver and GSQ5111 Power Amplifier. the RP2350A acts as a control IC for the CC1125 and this simplifies the process for the OnBoard Computer(the OBC of the cubesat)
+It uses the CC1125 RF Transceiver from Texas Instruments as it's Transceiver and GSQ5111 Power Amplifier and it operates in the 70cm band. the RP2350A acts as a control IC for the CC1125 and this simplifies the process for the OnBoard Computer(the OBC of the cubesat)
 
-# Why i chose to make this project
+# Why I chose to make this project
 Me and my friends got an idea of making a cubesat about this time last year, and started learning all the electronics and design, and i am the leader of the group and i design the communications part. I chose to make this project in highway because this was the perfect time, as i was thinking about starting to make the pcb anf highway was announced, and surprisingly, only 4 hours are left from now until highway ends forever!
 
 
+# Images
 
-
-# Bom
+# BOM
 Final Breakdown at the bottom
 |Id |Designator                                           |Designation                |Footprint                               |DNO|Price |Quantity|Amount |Link                                                                                                                                                                                        |
 |---|-----------------------------------------------------|---------------------------|----------------------------------------|---|------|--------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
