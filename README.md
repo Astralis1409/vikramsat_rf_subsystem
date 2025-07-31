@@ -10,6 +10,10 @@ Me and my friends got an idea of making a cubesat about this time last year, and
 
 
 # Images
+![schematic final](/images/final/sch.png)
+![pcb final](/images/final/pcb.png)
+
+
 
 # BOM
 Final Breakdown at the bottom
