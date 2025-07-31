@@ -106,3 +106,7 @@ I was also told to add a UART pin on the sat bus, which i added.
 I AM REMOVING SWD IT IS VERY VERY ANNOYING AND IS INTERFERING IN LAYOUT
 
 ### Time Spent Today: 1 hour 30 mins
+
+# August 1 2025
+It is aug 1 for me, the time is 04:07 AM, my RF board is finally complete, now i just have to make BOM, take some images, write README and submit
+### Time Spent today: 4 hours
