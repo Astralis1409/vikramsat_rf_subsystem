@@ -1,0 +1,41 @@
+﻿Id,Designator,Designation,Footprint,DNO,Price,Quantity,Amount,Link
+1,"C1, C2, C32, C33",15p,402,Yes,0,4,0,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GJM1555C1H150FB01D_C441742.html
+2,C10,10n,402,No,0.0008,100,0.08,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0402X7R103K500AT_C688874.html
+3,"C11, C12, C13, C15, C16, C3, C4, C5, C6, C7, C9",47n,402,No,0.0008,100,0.08,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0402X7R473M250AT_C5142571.html
+4,C14,220n,402,No,0.0016,100,0.16,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_HRE-CGA0402X5R224K100GT_C7503518.html
+5,"C17, C18, C19, C21, C34, C35, C36, C39, C40",4.7u,402,No,0.014,50,0.7,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Chinocera-HGC0402R5475M250NTEJ_C22367824.html
+6,"C20, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31",100n,402,Yes,0,22,0,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM155R61H104JE14D_C426067.html
+7,"C37, C38",100nF,402,Yes,0,4,0,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Murata-Electronics-GRM155R61H104JE14D_C426067.html
+8,"C41, C42",10u,805,Yes,0,2,0,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KBYQNNE_C2932476.html
+9,C43,1200p,402,No,0.0009,100,0.09,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_HRE-CGA0402X7R122K500GT_C22435964.html
+10,C44,5p,402,No,0.0009,1,0.0009,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_HRE-CGA0402C0G5R0C500GT_C41361096.html
+11,"C45, C46, C47, C48, C49",220p,402,No,0.0015,5,0.0075,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-0402N221J500CT_C301973.html
+12,C8,1n8,402,No,0.001,100,0.1,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0402X7R182K500AT_C696873.html
+13,D1,LED,402,Yes,0,1,0,https://lcsc.com/product-detail/LED-Indication-Discrete_Everlight-Elec-16-213-GHC-YR1S1N-3T_C2980183.html
+14,"D2, D3",D,402,No,0.17,5,0.85,https://lcsc.com/product-detail/Schottky-Diodes_onsemi-NSVR05F40NXT5G_C604383.html
+15,"DP1, DP2, DP3, DP4, DP5",~,Debug Pad,0,0,5,0,-
+16,IC1,CC1125RHBR,QFN50P500X500X100-33N-D,No,3.0257,2,6.0514,https://lcsc.com/product-detail/RF-Transceiver-ICs_TI-CC1125RHBR_C133234.html
+17,IC2,BALF-SPI2-02D3,BALFSPI202D3,No,0.41,2,0.82,https://lcsc.com/product-detail/RF-Filters_ST-BALF-SPI2-02D3_C2688704.html
+18,"IC3, IC4",4259-63,PE4259,No,0.6885,2,1.377,https://lcsc.com/product-detail/RF-Switches_pSemi-PE4259-63_C470892.html
+19,J1,Conn_Coaxial,SMA_Amphenol_901-143_Horizontal,No,0.4585,2,0.917,https://lcsc.com/product-detail/Coaxial-Connectors-RF_BAT-WIRELESS-BWSMA-KWE-Z001_C496551.html
+20,J3,Conn_02x20_Top_Bottom,PinHeader_2x20_P2.54mm_Vertical,No,0.9305,2,1.861,https://lcsc.com/product-detail/Female-Headers_ZHOURI-PC104-2-20_C5307344.html
+21,J4,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_XKB_U262-16XN-4BVC11,Yes,0,1,0,https://lcsc.com/product-detail/USB-Connectors_SHOU-HAN-TYPE-C16PIN_C393939.html
+22,L1,3.3u,IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T,No,0.28,5,1.4,https://lcsc.com/product-detail/Power-Inductors_ABRACON-AOTA-B201610S3R3-101-T_C42411119.html
+23,R1,0,402,0,0,1,0,Direct Bridge
+24,"R10, R11, R8, R9",10k,402,Yes,0.0278,20,0.556,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Vishay-Intertech-RCS040210K0FKED_C3020235.html
+25,"R12, R6, R7",1k,402,No,0.0005,100,0.05,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402J102-TS_C2906899.html
+26,R2,56k,402,No,0.0004,100,0.04,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402J563-TS_C2906955.html
+27,R3,33,402,Yes,0,1,0,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0402BRD0733RL_C852729.html
+28,"R4, R5",27,402,Yes,0,2,0,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2GEJ270X_C278580.html
+29,SW1,SW_Push,SW_SPST_PTS810,No,0.81,2,1.62,https://lcsc.com/product-detail/Tactile-Switches_C-K-PTS810SJS250SMTRLFS_C221897.html?s_z=n_pts810
+30,U1,RP2350A-QFN60,RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm,No,1.48,3,4.44,https://www.silverlineelectronics.in/
+31,U2,W25Q128JVS,SOIC-8_5.3x5.3mm_P1.27mm,No,1.77,2,3.54,https://lcsc.com/product-detail/NOR-FLASH_Winbond-W25Q128JVSIM_C2613930.html?s_z=n_W25Q128JVS
+32,U3,GSQ5111,QFN-16_L3.0-W3.0-P0.50-TL-EP1.65,No,4.75,2,9.5,https://lcsc.com/product-detail/RF-Power-Amplifiers_GPowerTek-GSQ5111_C41410391.html
+33,U4,SK5129,DFN-6_L1.6-W1.6-P0.50-BL-EP1.0,No,0.1685,3,0.5055,https://lcsc.com/product-detail/Low-Noise-Amplifiers-LNA-RF_Suntek-SK5129_C5120312.html
+34,U5,AMS1117s-3.3,SOT-89-3,No,0.1057,5,0.5285,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_JSMSEMI-AMS1117S-3-3_C917152.html?s_z=n_ams1117s
+35,Y1,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,0.45,2,0.9,https://lcsc.com/product-detail/Crystal-Oscillators_Shenzhen-SCTF-Elec-SX3M40-000M20F30TNN_C2901588.html?s_z=s_Crystals%252C%2520Oscillators%252C%2520Resonators%257CCrystal%2520Oscillators
+36,Y2,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,0.43,2,0.86,https://lcsc.com/product-detail/Crystals_ABRACON-ABM8-272-T3_C20625731.html?s_z=n_abm8-t272
+,Shipping,3.74,,,,,37.0348,
+,Merchandise total,37.03,,,,,,
+,pcb+stencil(jlcpcb),34.57,,,,,,
+,Total,75.34,,,,,,
