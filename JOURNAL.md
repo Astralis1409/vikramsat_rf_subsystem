@@ -4,7 +4,7 @@ author: "Keyaan"
 description: "The Radio Frequency Communication Board for VikramSAT at 433MHz"
 created_at: "2025-07-02"
 ---
-
+# Total Time spent: about 10 hours and 15 mins
 # July 2  
 I created this! 
 ----
@@ -110,5 +110,9 @@ I AM REMOVING SWD IT IS VERY VERY ANNOYING AND IS INTERFERING IN LAYOUT
 # August 1 2025
 It is aug 1 for me, the time is 04:07 AM, my RF board is finally complete, now i just have to make BOM, take some images, write README and submit  
 Bom Done
-Now all the images are in README i am gonna add them here too
-### Time Spent today: 4 hours
+Now all the images are in README i am gonna add them here too  
+![schematic final](/images/final/sch.png)
+![pcb final](/images/final/pcb.png)
+![3d](/images/final/3d.png)
+The fles do not include a 3d step file because my kicad has gona mad and it tells me to run drc because of edge.cuts fault but there is no fault in edge.cuts
+### Time Spent today: 4.5 hours
