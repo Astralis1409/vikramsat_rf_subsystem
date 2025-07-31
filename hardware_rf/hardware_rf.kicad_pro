@@ -703,7 +703,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "hardware_rf.step",
       "svg": "",
       "vrml": ""
     },
