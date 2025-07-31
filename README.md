@@ -12,7 +12,8 @@ Me and my friends got an idea of making a cubesat about this time last year, and
 # Images
 ![schematic final](/images/final/sch.png)
 ![pcb final](/images/final/pcb.png)
-
+![3d](/images/final/3d.png)
+The fles do not include a 3d step file because my kicad has gona mad and it tells me to run drc because of edge.cuts fault but there is no fault in edge.cuts
 
 
 # BOM
