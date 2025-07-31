@@ -97,3 +97,6 @@ okay, i think my schematic is finally complete, i gotta start with the footprint
 Final day,I feel kind of sad today, i am in school right now, gotta complete the footprint assignment and start layout
 completed assignment, and now i finished a lot of layout too:
 ![](/images/31/l1.png)
+Started with the proper routing too, will update later
+
+### Time Spent Today: 1 hour
