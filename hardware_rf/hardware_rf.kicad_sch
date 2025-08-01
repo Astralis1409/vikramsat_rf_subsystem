@@ -7806,6 +7806,16 @@
 	)
 	(wire
 		(pts
+			(xy 350.52 58.42) (xy 350.52 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27a8c599-da14-4d48-92c6-bb5894664cba")
+	)
+	(wire
+		(pts
 			(xy 48.26 74.93) (xy 48.26 83.82)
 		)
 		(stroke
@@ -7933,6 +7943,16 @@
 			(type default)
 		)
 		(uuid "3251f79d-b4be-46ed-942a-708c3ed30a82")
+	)
+	(wire
+		(pts
+			(xy 363.22 63.5) (xy 363.22 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "327ed901-bef4-4b9f-b093-865580730baf")
 	)
 	(wire
 		(pts
@@ -8296,6 +8316,16 @@
 	)
 	(wire
 		(pts
+			(xy 349.25 64.77) (xy 360.68 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d4b3eda-a47e-4d2c-9b68-fe2c4ca536ff")
+	)
+	(wire
+		(pts
 			(xy 120.65 238.76) (xy 129.54 238.76)
 		)
 		(stroke
@@ -8313,6 +8343,16 @@
 			(type default)
 		)
 		(uuid "51427c83-75ac-43d8-813d-bd1106589369")
+	)
+	(wire
+		(pts
+			(xy 342.9 58.42) (xy 350.52 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51a20ae7-0421-485b-b1cb-de68adf66b3d")
 	)
 	(wire
 		(pts
@@ -8416,6 +8456,16 @@
 	)
 	(wire
 		(pts
+			(xy 363.22 73.66) (xy 365.76 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59932dfc-b02e-488f-b391-7d49f9ab55e2")
+	)
+	(wire
+		(pts
 			(xy 50.8 160.02) (xy 54.61 160.02)
 		)
 		(stroke
@@ -8496,6 +8546,16 @@
 	)
 	(wire
 		(pts
+			(xy 360.68 64.77) (xy 360.68 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62ad4172-dff7-4391-8aaf-1c55942a1047")
+	)
+	(wire
+		(pts
 			(xy 240.03 62.23) (xy 243.84 62.23)
 		)
 		(stroke
@@ -8553,6 +8613,16 @@
 			(type default)
 		)
 		(uuid "6e171838-c651-473c-9e88-fa8b6aebc73b")
+	)
+	(wire
+		(pts
+			(xy 342.9 60.96) (xy 349.25 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "706debd5-1769-45ae-9289-570c9165dc02")
 	)
 	(wire
 		(pts
@@ -8963,6 +9033,16 @@
 			(type default)
 		)
 		(uuid "a0946bed-36fb-4e5c-bdec-05cfc01bfcae")
+	)
+	(wire
+		(pts
+			(xy 349.25 60.96) (xy 349.25 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a25f7149-d63c-4fb6-88d1-0d09af8fa066")
 	)
 	(wire
 		(pts
@@ -9446,6 +9526,16 @@
 	)
 	(wire
 		(pts
+			(xy 350.52 63.5) (xy 363.22 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d70db713-8363-43cb-9bb8-b51241e9ba73")
+	)
+	(wire
+		(pts
 			(xy 196.85 261.62) (xy 215.9 261.62)
 		)
 		(stroke
@@ -9819,6 +9909,28 @@
 		(uuid "027ca991-6dfd-44dd-ab07-c2b6ebc7a0bf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 228.6 170.6857 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 365.76 81.28 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "057448c7-4f34-4b2d-9436-07f52024a41c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 365.76 88.1357 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12041,6 +12153,28 @@
 		(uuid "97791516-a4d0-4b5f-9d47-a8ca04ca5385")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 177.1734 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 360.68 81.28 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "97bf0219-6ee6-4890-a268-9d79c50f067a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 360.68 88.1357 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14369,6 +14503,73 @@
 			(project "hardware_rf"
 				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
 					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 360.68 77.47 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "268d21b3-6f8c-432d-b751-9c15cc408c66")
+		(property "Reference" "R13"
+			(at 356.108 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 358.648 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 362.458 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 360.68 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 360.68 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "37c35833-9a1c-48f1-9269-5356ae1ce8d8")
+		)
+		(pin "2"
+			(uuid "ad7eca32-a385-42f5-a008-73a5c4844ca6")
+		)
+		(instances
+			(project "hardware_rf"
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -19825,6 +20026,73 @@
 			(project "hardware_rf"
 				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 365.76 77.47 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e64fb35a-49cb-47d7-ba61-4cd5b41e841a")
+		(property "Reference" "R14"
+			(at 361.188 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "5.1k"
+			(at 363.728 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 367.538 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 365.76 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83081096-04e0-4ce8-adb3-12695496c776")
+		)
+		(pin "2"
+			(uuid "d89fa5c9-d316-4997-8d1e-3c761a239042")
+		)
+		(instances
+			(project "hardware_rf"
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "R14")
 					(unit 1)
 				)
 			)
