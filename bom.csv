@@ -27,14 +27,15 @@
 26,R2,56k,402,No,0.0004,100,0.04,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0402J563-TS_C2906955.html
 27,R3,33,402,Yes,0,1,0,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RT0402BRD0733RL_C852729.html
 28,"R4, R5",27,402,Yes,0,2,0,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2GEJ270X_C278580.html
-29,SW1,SW_Push,SW_SPST_PTS810,No,0.81,2,1.62,https://lcsc.com/product-detail/Tactile-Switches_C-K-PTS810SJS250SMTRLFS_C221897.html?s_z=n_pts810
-30,U1,RP2350A-QFN60,RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm,No,1.48,3,4.44,https://www.silverlineelectronics.in/
-31,U2,W25Q128JVS,SOIC-8_5.3x5.3mm_P1.27mm,No,1.77,2,3.54,https://lcsc.com/product-detail/NOR-FLASH_Winbond-W25Q128JVSIM_C2613930.html?s_z=n_W25Q128JVS
-32,U3,GSQ5111,QFN-16_L3.0-W3.0-P0.50-TL-EP1.65,No,4.75,2,9.5,https://lcsc.com/product-detail/RF-Power-Amplifiers_GPowerTek-GSQ5111_C41410391.html
-33,U4,SK5129,DFN-6_L1.6-W1.6-P0.50-BL-EP1.0,No,0.1685,3,0.5055,https://lcsc.com/product-detail/Low-Noise-Amplifiers-LNA-RF_Suntek-SK5129_C5120312.html
-34,U5,AMS1117s-3.3,SOT-89-3,No,0.1057,5,0.5285,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_JSMSEMI-AMS1117S-3-3_C917152.html?s_z=n_ams1117s
-35,Y1,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,0.45,2,0.9,https://lcsc.com/product-detail/Crystal-Oscillators_Shenzhen-SCTF-Elec-SX3M40-000M20F30TNN_C2901588.html?s_z=s_Crystals%252C%2520Oscillators%252C%2520Resonators%257CCrystal%2520Oscillators
-36,Y2,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,0.43,2,0.86,https://lcsc.com/product-detail/Crystals_ABRACON-ABM8-272-T3_C20625731.html?s_z=n_abm8-t272
+29,"R6,R7",5.1k,402,Yes,0,2,0,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_PANASONIC-ERJ2RKF5101X_C278598.html
+30,SW1,SW_Push,SW_SPST_PTS810,No,0.81,2,1.62,https://lcsc.com/product-detail/Tactile-Switches_C-K-PTS810SJS250SMTRLFS_C221897.html?s_z=n_pts810
+31,U1,RP2350A-QFN60,RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm,No,1.48,3,4.44,https://www.silverlineelectronics.in/
+32,U2,W25Q128JVS,SOIC-8_5.3x5.3mm_P1.27mm,No,1.77,2,3.54,https://lcsc.com/product-detail/NOR-FLASH_Winbond-W25Q128JVSIM_C2613930.html?s_z=n_W25Q128JVS
+33,U3,GSQ5111,QFN-16_L3.0-W3.0-P0.50-TL-EP1.65,No,4.75,2,9.5,https://lcsc.com/product-detail/RF-Power-Amplifiers_GPowerTek-GSQ5111_C41410391.html
+34,U4,SK5129,DFN-6_L1.6-W1.6-P0.50-BL-EP1.0,No,0.1685,3,0.5055,https://lcsc.com/product-detail/Low-Noise-Amplifiers-LNA-RF_Suntek-SK5129_C5120312.html
+35,U5,AMS1117s-3.3,SOT-89-3,No,0.1057,5,0.5285,https://lcsc.com/product-detail/Voltage-Regulators-Linear-Low-Drop-Out-LDO-Regulators_JSMSEMI-AMS1117S-3-3_C917152.html?s_z=n_ams1117s
+36,Y1,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,0.45,2,0.9,https://lcsc.com/product-detail/Crystal-Oscillators_Shenzhen-SCTF-Elec-SX3M40-000M20F30TNN_C2901588.html?s_z=s_Crystals%252C%2520Oscillators%252C%2520Resonators%257CCrystal%2520Oscillators
+37,Y2,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,No,0.43,2,0.86,https://lcsc.com/product-detail/Crystals_ABRACON-ABM8-272-T3_C20625731.html?s_z=n_abm8-t272
 ,Shipping,3.74,,,,,37.0348,
 ,Merchandise total,37.03,,,,,,
 ,pcb+stencil(jlcpcb),34.57,,,,,,
