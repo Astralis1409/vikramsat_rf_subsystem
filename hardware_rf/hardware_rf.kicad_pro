@@ -156,10 +156,6 @@
           ""
         ],
         [
-          "invalid_outline|193275000|123875000|e07c91ff-747d-41fe-868a-c654ff14ccd4|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "starved_thermal|138757500|115400000|71c16b64-9dbb-4a9e-97aa-7becc88a55f6|3a03d2f9-09a6-4d95-a7fd-0393d2f88c8e|F.Cu",
           ""
         ],
@@ -775,7 +771,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
