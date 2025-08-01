@@ -113,8 +113,9 @@ Bom Done
 Now all the images are in README i am gonna add them here too  
 ![schematic final](/images/final/sch.png)
 ![pcb final](/images/final/pcb.png)
+![pcb final](/images/final/pcb2.png)
 ![3d](/images/final/3d.png)
-The fles do not include a 3d step file because my kicad has gona mad and it tells me to run drc because of edge.cuts fault but there is no fault in edge.cuts  
+![3d](/images/final/3d2.png)
 
 okay, i have submitted it finally, and now someone spotted that i donot have CC lines grouded on USB, so i gotta do that and update EVERYTHING
 ### Time Spent today: 4.5 hours
