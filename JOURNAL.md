@@ -119,3 +119,6 @@ Now all the images are in README i am gonna add them here too
 
 okay, i have submitted it finally, and now someone spotted that i donot have CC lines grouded on USB, so i gotta do that and update EVERYTHING
 ### Time Spent today: 4.5 hours
+
+# August 2 2025
+my friend told me to add SWD to the board too, so i am gonna do that now, my project is approved, but i think adding this is okay now.
