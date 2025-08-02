@@ -10,11 +10,12 @@ Me and my friends got an idea of making a cubesat about this time last year, and
 
 
 # Images
-![schematic final](/images/final/sch.png)
-![pcb final](/images/final/pcb.png)
-![pcb final](/images/final/pcb2.png)
-![3d](/images/final/3d.png)
-![3d](/images/final/3d2.png)
+Kicanvas Link: [Here]()
+![schematic final](/images/final/sch.png)  
+![pcb final](/images/final/pcb.png)  
+![pcb final](/images/final/pcb2.png)  
+![3d](/images/final/3d.png)  
+![3d](/images/final/3d2.png)  
 Files now have .STEP files!
 
 
