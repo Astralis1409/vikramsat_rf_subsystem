@@ -122,3 +122,6 @@ okay, i have submitted it finally, and now someone spotted that i donot have CC 
 
 # August 2 2025
 my friend told me to add SWD to the board too, so i am gonna do that now, my project is approved, but i think adding this is okay now.
+
+# August 3 2025
+Today my friends told me to change the location of USB, and i did that. I am unsure about why i placed it not at the edges
