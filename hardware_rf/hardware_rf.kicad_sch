@@ -7000,6 +7000,212 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "user_imported:ESDS314DBVR"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 24.13 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Value" "ESDS314DBVR"
+				(at 24.13 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "user_imported_devices:ESDS314BVR_SOT95P280X145-5N"
+				(at 24.13 -94.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/esds314"
+				(at 24.13 -194.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Description" "Data-Line Surge and ESD Protection Diode Array"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Height" "1.45"
+				(at 24.13 -394.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Part Number" "595-ESDS314DBVR"
+				(at 24.13 -494.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ESDS314DBVR?qs=w%2Fv1CP2dgqpkGBpJKrSLAg%3D%3D"
+				(at 24.13 -594.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Name" "Texas Instruments"
+				(at 24.13 -694.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "ESDS314DBVR"
+				(at 24.13 -794.92 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+					(hide yes)
+				)
+			)
+			(symbol "ESDS314DBVR_1_1"
+				(rectangle
+					(start 5.08 2.54)
+					(end 22.86 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name "I/O1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -5.08 0)
+					(length 5.08)
+					(name "I/O2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 0 180)
+					(length 5.08)
+					(name "I/O3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 27.94 -2.54 180)
+					(length 5.08)
+					(name "I/O4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 	)
 	(text "Route as 50R\n"
 		(exclude_from_sim no)
@@ -7624,6 +7830,10 @@
 		(uuid "276c1b7f-f307-4654-8881-3fc72816feb6")
 	)
 	(no_connect
+		(at 383.54 115.57)
+		(uuid "3d77ec63-daeb-4e6c-805e-41b4f8c3b6d8")
+	)
+	(no_connect
 		(at 259.08 149.86)
 		(uuid "776700b2-1390-45eb-ae2f-141d77d00108")
 	)
@@ -7634,6 +7844,10 @@
 	(no_connect
 		(at 259.08 109.22)
 		(uuid "c85f5f7f-84f2-46ed-ab9c-cb9dec98744c")
+	)
+	(no_connect
+		(at 383.54 118.11)
+		(uuid "d18adc2a-e08d-48bf-ab1a-2681483edcdb")
 	)
 	(no_connect
 		(at 259.08 99.06)
@@ -10637,6 +10851,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_DM"
+		(shape input)
+		(at 355.6 115.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "25595984-9df0-4a43-8e2c-5dd882355b45")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 345.1158 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -13831,6 +14067,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 355.6 118.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f8442a6b-57d5-4dc4-bf83-22f58f707d85")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 348.7443 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "QSPI_SS"
 		(shape input)
 		(at 189.23 90.17 180)
@@ -13844,6 +14102,28 @@
 		(uuid "fb78f9af-8391-4abd-a6db-fcf8ee094bfe")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 178.4434 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_DP"
+		(shape input)
+		(at 355.6 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fbb07e19-2b65-402b-9389-72a67d31b969")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 345.2972 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15641,6 +15921,135 @@
 			(project ""
 				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
 					(reference "C45")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "user_imported:ESDS314DBVR")
+		(at 355.6 115.57 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44553656-fa49-46a9-94bb-61d06d74a3f3")
+		(property "Reference" "D4"
+			(at 369.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "ESDS314DBVR"
+			(at 369.57 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "user_imported_devices:ESDS314BVR_SOT95P280X145-5N"
+			(at 379.73 210.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/esds314"
+			(at 379.73 310.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Data-Line Surge and ESD Protection Diode Array"
+			(at 355.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.45"
+			(at 379.73 510.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "595-ESDS314DBVR"
+			(at 379.73 610.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/ESDS314DBVR?qs=w%2Fv1CP2dgqpkGBpJKrSLAg%3D%3D"
+			(at 379.73 710.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Texas Instruments"
+			(at 379.73 810.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ESDS314DBVR"
+			(at 379.73 910.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "4eea8230-5624-433e-8920-b9174f86e43d")
+		)
+		(pin "5"
+			(uuid "facbb957-aa6a-4968-b25e-72a1b4319d6c")
+		)
+		(pin "1"
+			(uuid "947dc869-16ce-4897-acfe-70aa8d7669a7")
+		)
+		(pin "2"
+			(uuid "56ba0721-e532-4b51-bc74-4016e9b07826")
+		)
+		(pin "3"
+			(uuid "90010645-f766-4334-b06b-f8ea29b7be15")
+		)
+		(instances
+			(project ""
+				(path "/76e9da14-bca7-4795-80b8-b5efcf73ac31"
+					(reference "D4")
 					(unit 1)
 				)
 			)
