@@ -130,3 +130,7 @@ Today my friends told me to change the location of USB, and i did that. I am uns
 Today, i finally order, i have made some changes to the board, like added the ESD protection IC, and this is why i am journaling today
 
 i resubmitted, and i spent about 15 mins fixing the stuff, and my BOM has not changed, as i have that IC already present with me at home
+
+shit, the power amplifier IC GSQ5111 is out of stock on LCSC, and i cannot wait any longer, so i will replace it with GSQ5110. which is a similar IC with different bandwidth but it doesn't affect my use case. 
+
+### Time Spent Today: 15 mins
