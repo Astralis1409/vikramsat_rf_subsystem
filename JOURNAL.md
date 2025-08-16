@@ -128,3 +128,5 @@ Today my friends told me to change the location of USB, and i did that. I am uns
 
 # August 16 2025
 Today, i finally order, i have made some changes to the board, like added the ESD protection IC, and this is why i am journaling today
+
+i resubmitted, and i spent about 15 mins fixing the stuff, and my BOM has not changed, as i have that IC already present with me at home
