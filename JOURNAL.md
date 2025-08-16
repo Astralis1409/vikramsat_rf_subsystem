@@ -125,3 +125,6 @@ my friend told me to add SWD to the board too, so i am gonna do that now, my pro
 
 # August 3 2025
 Today my friends told me to change the location of USB, and i did that. I am unsure about why i placed it not at the edges
+
+# August 16 2025
+Today, i finally order, i have made some changes to the board, like added the ESD protection IC, and this is why i am journaling today
