@@ -133,4 +133,7 @@ i resubmitted, and i spent about 15 mins fixing the stuff, and my BOM has not ch
 
 shit, the power amplifier IC GSQ5111 is out of stock on LCSC, and i cannot wait any longer, so i will replace it with GSQ5110. which is a similar IC with different bandwidth but it doesn't affect my use case. 
 
-### Time Spent Today: 15 mins
+
+work is done, the company is shittty and i am never using gpowertek again.
+
+### Time Spent Today: 30 mins
